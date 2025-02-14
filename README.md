@@ -32,7 +32,7 @@ The system consists of **five key tables**:
 4. Run the project on a local server (XAMPP/LAMP).  
 
 ## 👨‍💻 **Developed By**  
-- **Shehryar Zubair Khan**  (me)
+- **[Shehryar Zubair Khan](https://github.com/shehryar-zubair)**
 - **[Zehra Jabeen Mirza](https://github.com/zehra-jm)** 
 
 
